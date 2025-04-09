@@ -1,0 +1,131 @@
+---
+title: "Welcome to InsightfulFriday"
+format:
+  html:
+    theme: journal
+    toc: true
+    toc-depth: 2
+    highlight-style: tango
+editor: visual
+css: |
+  body {
+    background-color: #f0f8ff; /* Alice Blue for a fresh and clean look */
+    color: #333333;          /* Neutral dark gray for text */
+    font-family: 'Poppins', sans-serif; /* Modern and approachable font */
+    margin: 0;
+    padding: 0;
+  }
+
+  .container {
+    padding: 20px;
+    max-width: 900px;
+    margin: auto;
+    background-color: #ffffff; /* White content area for contrast */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); /* Enhanced shadow for elegance */
+    border-radius: 10px; /* Slightly rounded corners for a modern look */
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #00509e; /* Vivid blue for headings */
+  }
+
+  a {
+    color: #ff7f50; /* Coral for links */
+  }
+
+  a:hover {
+    color: #ff4500; /* Orange red hover effect for links */
+    text-decoration: underline;
+  }
+---
+
+## **Data Science Training & Strategic Analytics Consulting**
+
+-   *Where Data Insights Spark Business Growth*
+
+-   *Master Data Skills or Solve Complex Business Problems With Expert Guidance*
+
+## **Why Choose InsightfulFriday?**
+
+\
+*✔ 50+ Projects Delivered across finance, retail, and HR sectors\
+✔ Practical Training Approach focused on real-world business applications\
+✔ Flexible Engagement Models – hourly, project-based, or retainer*
+
+## **Our Services**
+
+### **1. Corporate Data Science Training**
+
+\
+📊 **Python/R for Business Analytics**
+
+-   From basic syntax to machine learning applications
+
+📈 **BI & Visualization Mastery**
+
+-   Tableau/Power BI dashboards that drive decisions
+
+-   Automated reporting with Quarto & R Markdown
+
+🗃 **SQL & Database Design**
+
+-   Optimized for Nairobi's growing tech ecosystem
+
+### **2. AI & Analytics Project Consulting**
+
+###  🤖 **Predictive Modeling**
+
+-   Customer churn prediction, demand forecasting
+
+📱 **Custom Dashboard Development**
+
+-   Executive-level KPI tracking
+
+-   Mobile-responsive designs
+
+⚙️ **Data Pipeline Automation**
+
+-   Scrape, clean, and analyze data automatically
+
+**🛠 Get a Project Estimate**
+
+## **Recent Success Stories**
+
+| **Project** | **Impact** | **Tools Used** |
+|:---|:---|:---|
+| **Credit Risk App** | Reduced loan defaults by 20% | Python, Shiny |
+| **Retail Inventory System** | Cut stockouts by 35% | R, SQL, Power BI |
+| **Nairobi HR Analytics** | Saved 15hrs/month in reporting | Power BI, Python |
+
+## **How We Work**
+
+1.  <div>
+
+    **Book Your Free Strategy Session**
+
+    </div>
+
+    *📅 **30-Minute Discovery Call**\
+    📞 [+254 713 167 064](https://wa.me/254713167064) (Click to chat on WhatsApp)\
+    ✉️ [kariukireuben734\@gmail.com](https://mailto:reubenmwas51@gmail.com/)*
+
+2.  **Custom Roadmap** (Training plan or project scope)
+
+3.  **Execution** (Hands-on coaching or sprint-based delivery)
+
+------------------------------------------------------------------------
+
+### **Address**
+
+We work remotely.
+
+------------------------------------------------------------------------
+
+# Let's Work Together
+
+At InsightfulFriday, we bridge the gap between raw data and strategic decision-making. Whether you seek to:\
+*• Implement **AI-driven predictive models**\
+• Develop **executive-ready dashboards**\
+• Cultivate **data literacy across your team***
+
+Our tailored approach ensures measurable impact for your unique business challenges.

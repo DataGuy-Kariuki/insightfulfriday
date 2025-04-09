@@ -1,0 +1,63 @@
+---
+/* Elegant Background */
+
+body {
+
+  background: linear-gradient(135deg, #ffffff, #f2f4f8); /* Light gradient */
+
+  font-family: "Helvetica Neue", Arial, sans-serif; /* Clean font */
+
+  color: #333333;
+
+  margin: 0;
+
+  padding: 0;
+
+}
+
+/* Container Styling */
+
+.container {
+
+  background: #ffffff;
+
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+
+  padding: 20px;
+
+  border-radius: 10px;
+
+  max-width: 900px;
+
+  margin: 40px auto;
+
+}
+
+/* Header Styling */
+
+h1, h2, h3 {
+
+  color: #2b5797;
+
+}
+
+/* Link Styling */
+
+a {
+
+  color: #0056b3;
+
+  text-decoration: none;
+
+}
+
+a:hover {
+
+  color: #002966;
+
+  text-decoration: underline;
+
+}
+---
+
+## 
